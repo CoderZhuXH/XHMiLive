@@ -1,0 +1,72 @@
+PODS:
+  - AFNetworking (3.0.4):
+    - AFNetworking/NSURLSession (= 3.0.4)
+    - AFNetworking/Reachability (= 3.0.4)
+    - AFNetworking/Security (= 3.0.4)
+    - AFNetworking/Serialization (= 3.0.4)
+    - AFNetworking/UIKit (= 3.0.4)
+  - AFNetworking/NSURLSession (3.0.4):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.0.4)
+  - AFNetworking/Security (3.0.4)
+  - AFNetworking/Serialization (3.0.4)
+  - AFNetworking/UIKit (3.0.4):
+    - AFNetworking/NSURLSession
+  - FMDB (2.6.2):
+    - FMDB/standard (= 2.6.2)
+  - FMDB/standard (2.6.2)
+  - HYBLoopScrollView (3.2.1)
+  - LFLiveKit (2.2.4.3)
+  - LKDBHelper (2.3.4):
+    - FMDB
+  - MJExtension (3.0.13)
+  - MJRefresh (3.1.12)
+  - NullSafe (1.2.2)
+  - SDAutoLayout (1.53)
+  - SDWebImage (3.7.6):
+    - SDWebImage/Core (= 3.7.6)
+  - SDWebImage/Core (3.7.6)
+  - UITableView+FDTemplateLayoutCell (1.5.beta)
+  - XHCategories (1.2.3)
+  - XHLogHelper (2.2)
+  - XHNetworkCache (1.2.3)
+  - XHToast (1.2.2)
+
+DEPENDENCIES:
+  - AFNetworking (~> 3.0.4)
+  - HYBLoopScrollView (~> 3.2.1)
+  - LFLiveKit (~> 2.2.4.3)
+  - LKDBHelper (~> 2.3.1)
+  - MJExtension (~> 3.0.10)
+  - MJRefresh (~> 3.1.9)
+  - NullSafe (~> 1.2.1)
+  - SDAutoLayout (~> 1.50)
+  - SDWebImage (~> 3.7.3)
+  - UITableView+FDTemplateLayoutCell (~> 1.5.beta)
+  - XHCategories (~> 1.2.3)
+  - XHLogHelper (~> 2.2)
+  - XHNetworkCache (~> 1.2)
+  - XHToast (~> 1.2)
+
+SPEC CHECKSUMS:
+  AFNetworking: a0075feb321559dc78d9d85b55d11caa19eabb93
+  FMDB: 854a0341b4726e53276f2a8996f06f1b80f9259a
+  HYBLoopScrollView: 12ff9f5764cdd76f34171164c6517d5e01ee6766
+  LFLiveKit: c478b009b971b29665dc0c42c6120694d993f95f
+  LKDBHelper: 21fed3d2a010ea6f97996490abd717d379f9c772
+  MJExtension: 5932755f451458eefa24239358817f8d291240c7
+  MJRefresh: b96cdb21c4aa75a7b07654311ab2f315c497e806
+  NullSafe: cbf1f77a24558e49bc76e2673f31250d3087c792
+  SDAutoLayout: ea6e2ae9fbb438aa2feb0c4363dba9297e98638a
+  SDWebImage: c325cf02c30337336b95beff20a13df489ec0ec9
+  UITableView+FDTemplateLayoutCell: 02b508ab1cb4cea16a8c17ac83d2cd1fd72124f9
+  XHCategories: 25001f6cd70008daa74daa8690ed815e070f4a97
+  XHLogHelper: f7877d22407b33cb55831a7c00f9719e5af8bd17
+  XHNetworkCache: 61c007ba3baf100a1e84670f7db4989fa9a9f7e5
+  XHToast: f759ee52cfe1ff88fcecb3883638c3cb8450d085
+
+PODFILE CHECKSUM: d1dc403c0501fd075d6a8681c3e0e4706f9a54b3
+
+COCOAPODS: 1.1.0.beta.1
